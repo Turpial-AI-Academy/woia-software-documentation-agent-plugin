@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-documentation",
+  "version": "0.5.0",
+  "description": "Reusable software documentation capability for keeping user, agent, and operator documentation aligned with an exact software candidate.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-documentation-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-documentation-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "documentation"
+  ]
+}

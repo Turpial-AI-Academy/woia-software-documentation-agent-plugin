@@ -1,2 +1,9 @@
-# woia-software-documentation-agent-plugin
-WOIA v0.5.0 component: woia-software-documentation-agent-plugin
+# woia-software-documentation
+
+WOIA Software provider for the `documentation` capability. Portable capability content is migrated preserve-first from `Turpial-AI-Academy/documentation-agent-plugin@1.0.1` and remains independently usable.
+
+- Plugin version: `0.5.0`
+- Primary skill: `$documentation`
+- Authoring profile: thin
+
+Generic certification/release tooling is centralized in `woia-ecosystem`.
