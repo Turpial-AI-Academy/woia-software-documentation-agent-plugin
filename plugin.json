@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-documentation",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "description": "Reusable software documentation capability for keeping user, agent, and operator documentation aligned with an exact software candidate.",
   "author": {
     "name": "Turpial AI Academy",

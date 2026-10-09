@@ -1,23 +1,8 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "authoring_profile": "thin",
   "department": "software",
   "capability": "documentation",
-  "skill": "documentation",
-  "source_lineage": {
-    "repository": "Turpial-AI-Academy/documentation-agent-plugin",
-    "version": "1.0.1",
-    "commit": "cbbfb139fd80e105febdc3d87c25310fd4fe0622"
-  },
-  "migrated_portable_paths": [
-    "skills/documentation/SKILL.md",
-    "skills/documentation/assets/README.md",
-    "skills/documentation/assets/RECONCILIATION_REPORT.md",
-    "skills/documentation/references/DISCOVERY_MODEL.md",
-    "skills/documentation/references/DOCUMENTATION_STANDARD.md",
-    "skills/documentation/references/README.md",
-    "skills/documentation/references/RECONCILIATION_MODEL.md",
-    "skills/documentation/references/VALIDATION_PLAYBOOK.md"
-  ]
+  "skill": "documentation"
 }
